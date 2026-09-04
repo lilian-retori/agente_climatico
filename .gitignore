@@ -1,0 +1,15 @@
+# Ignorar pastas de ambiente virtual
+venv/
+env/
+.venv/
+
+# Ignorar arquivos com chaves de API e senhas (MUITO IMPORTANTE)
+.env
+
+# Ignorar arquivos de cache gerados pelo Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar arquivos ocultos do sistema operacional
+.DS_Store

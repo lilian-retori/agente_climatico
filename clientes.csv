@@ -1,0 +1,31 @@
+id,nome,cidade,seguro,perfil,telefone
+1,Lilian,Três Corações,Auto,Usa o carro diariamente e deixa estacionado na rua durante o expediente.,+5511999990001
+2,João Carlos,São Paulo,Auto,Motorista de aplicativo que trabalha durante a noite e madrugada.,+5511999990002
+3,Dona Maria,Rio de Janeiro,Residencial,Mora em casa térrea em rua com histórico de alagamento rápido.,+5511999990003
+4,Senhor Antônio,Cuiabá,Saúde / Vida,Idoso de 75 anos hipertenso e com mobilidade reduzida.,+5511999990004
+5,Roberto,Porto Alegre,Residencial,Propriedade cercada por árvores de grande porte e eucaliptos.,+5511999990005
+6,Fernanda,Belo Horizonte,Auto,Estaciona o veículo em pátio descoberto de terra.,+5511999990006
+7,Carlos,Curitiba,Saúde / Vida,Trabalha como operário de obras 100% ao ar livre.,+5511999990007
+8,Beatriz,Salvador,Residencial,Mora em apartamento de cobertura com telhado leve e janelas amplas.,+5511999990008
+9,Pedro,Manaus,Auto,Utiliza moto para realizar entregas ao longo do dia inteiro.,+5511999990009
+10,Ana,Recife,Residencial,Casa localizada próxima a uma encosta com leve inclinação.,+5511999990010
+11,Marcos,Fortaleza,Saúde / Vida,Atleta amador que corre na orla da praia nas horas mais quentes do dia.,+5511999990011
+12,Juliana,Campinas,Auto,Veículo familiar de passeio que fica na garagem aberta.,+5511999990012
+13,Luiz,Florianópolis,Residencial,Casa de veraneio próxima à praia e exposta a correntes de vento.,+5511999990013
+14,Camila,Goiânia,Saúde / Vida,Criança com problemas respiratórios e asma crônica.,+5511999990014
+15,Ricardo,Vitória,Auto,Dono de uma van escolar que roda em bairros com ruas íngremes.,+5511999990015
+16,Aline,Natal,Residencial,Possui uma pequena loja no andar térreo do centro da cidade.,+5511999990016
+17,Bruno,Belém,Saúde / Vida,Trabalhador rural exposto ao sol durante toda a jornada.,+5511999990017
+18,Paula,Maceió,Auto,Usa o carro apenas aos finais de semana para ir ao supermercado.,+5511999990018
+19,Fernando,João Pessoa,Residencial,Residência antiga com telhas de barro sem manutenção recente.,+5511999990019
+20,Sofia,Teresina,Saúde / Vida,Idosa que vive sozinha e tem problemas de circulação.,+5511999990020
+21,Diego,Campo Grande,Auto,Possui uma caminhonete usada para transporte de carga agrícola.,+5511999990021
+22,Mariana,Aracaju,Residencial,Apartamento no andar térreo vulnerável a retorno de água de bueiro.,+5511999990022
+23,Thiago,São Luís,Saúde / Vida,Pessoa com histórico recente de insolação grave e desidratação.,+5511999990023
+24,Letícia,Palmas,Auto,Carro que fica conectado à tomada na calçada carregando bateria.,+5511999990024
+25,Gabriel,Porto Velho,Residencial,Casa de madeira estruturada às margens do rio local.,+5511999990025
+26,Cláudia,Boa Vista,Saúde / Vida,Gestante no oitavo mês que precisa se deslocar a pé.,+5511999990026
+27,Rafael,Rio Branco,Auto,Veículo de colecionador sem seguro contra danos da natureza.,+5511999990027
+28,Isabela,Macapá,Residencial,Sobrado recém-construído com muita área de vidro na fachada.,+5511999990028
+29,Vitor,Santos,Auto,Trabalha na região portuária e o veículo fica exposto à maresia e ventos.,+5511999990029
+30,Tatiana,Três Corações,Saúde / Vida,Pratica ciclismo em estradas de terra aos finais de semana.,+5511999990030
